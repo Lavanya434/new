@@ -1,0 +1,7 @@
+{release,{"genserver_release","1"},
+         {erts,"7.3"},
+         [{stdlib,"2.8"},
+          {kernel,"4.2"},
+          {genserver,"rolling"},
+          {sasl,"2.7"},
+          {runtime_tools,"1.9.3"}]}. 
